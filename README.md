@@ -1,0 +1,2 @@
+# gitSeminar
+Gitセミナー用のリポジトリ
